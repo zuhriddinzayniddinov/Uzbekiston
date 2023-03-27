@@ -84,10 +84,14 @@ body {
 }
 
 .flow-head {
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Bebas Neue', sans-serif;
 }
 
 .flow-list {
     list-style: none;
+}
+
+.foot-sayt {
+    background-color: #111;
 }
