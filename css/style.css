@@ -1,0 +1,93 @@
+/* global */
+body {
+    font-family:'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    color: black;
+    background-color: #fff;
+}
+/* header */
+.sayt-logo-img {
+    height: 50px;
+    object-fit: cover;
+}
+
+.sayt-nav-list {
+    list-style: none;
+    
+}
+
+.a-list-nav {
+    text-decoration: none;
+}
+
+.list-item {
+    font-family: 'Bebas Neue', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.hero {
+    background-color: aquamarine;
+}
+
+.hero-heding {
+    font-size: 60px;
+}
+
+.btn {
+    text-decoration: none;
+}
+
+.hero-button {
+    color: #fff;
+}
+
+.news-heading 
+.viloyatlar {
+    font-size: 32px;
+    font-family: 'Bebas Neue' , sans-serif;
+}
+
+.news-list {
+    list-style: none;
+}
+
+.news-item-img {
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.aside-rek {
+    background-color: skyblue;
+}
+
+.vil-list {
+    list-style: none;
+}
+
+.vil-link {
+    font-size: 24px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #222;
+}
+
+.folw {
+    background-color: skyblue;
+}
+
+.flow-head {
+    font-size: 30px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.flow-list {
+    list-style: none;
+}
